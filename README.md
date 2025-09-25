@@ -43,4 +43,5 @@ Example: “Generate calm background music with soft piano and ambient strings f
 <img width="1024" height="1536" alt="ChatGPT Image Sep 19, 2025, 03_16_40 PM" src="https://github.com/user-attachments/assets/62f3f1c5-0c6b-46e8-b424-aa4d1af9cbe7" />
 
 
-# Result: The Prompt for the above process executed successfully
+# Result: 
+The Prompt for the above process executed successfully
